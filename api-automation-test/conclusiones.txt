@@ -1,0 +1,4 @@
+Como conclusiones y hallazgos se evidenció que las respuestas satisfactorias de cada api están mal formateadas lo cual impidieron hacer un trato adeacuado
+y llevó más tiempo de lo adecuado
+
+adicional como el token es dinamico con más tiempo se podría hacer que se valide solo una parte y no toda! sin embargo va a fallar la primera porque cada cierto tiempo se genera un token diferente, se deja comentado para que no genere error
